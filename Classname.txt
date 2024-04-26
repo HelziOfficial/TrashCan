@@ -1,0 +1,3 @@
+Hel_StaticTrashCan
+
+Hel_TrashCan
