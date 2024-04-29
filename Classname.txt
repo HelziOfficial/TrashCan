@@ -1,3 +1,8 @@
-Hel_StaticTrashCan
-
 Hel_TrashCan
+Hel_TrashCan_ColorBlue
+Hel_TrashCan_ColorRed
+Hel_TrashCan_ColorYellow
+Hel_TrashCan_Static
+Hel_TrashCan_ColorBlue_Static
+Hel_TrashCan_ColorRed_Static
+Hel_TrashCan_ColorYellow_Static
